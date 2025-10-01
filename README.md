@@ -2,7 +2,7 @@
 A Computer Science Enthusiast from Bengaluru ✨
 
 
-👩🏻‍💻 I'm currently learning Mobile App Development and Generative AI<br>💻 All of my projects are on [GitHub](https://www.linkedin.com/in/nanditha-b-84754b297/)
+👩🏻‍💻 I'm currently learning Mobile App Development and Generative AI<br>💻 All of my projects are on [GitHub](https://github.com/NandithaB19)
 
 
 Languages and Tools:
@@ -19,4 +19,4 @@ GitHub streak:
 ![](https://nirzak-streak-stats.vercel.app/?user=NandithaB19&theme=default&hide_border=false)<br/>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
