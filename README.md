@@ -37,7 +37,7 @@ GitHub streak:
 
 
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=NandithaB19&theme=default&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=NandithaB19&theme=default&hide_border=false)
 
 
 
