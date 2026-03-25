@@ -36,8 +36,8 @@ GitHub streak:
 
 
 
+![GitHub Streak](https://streak-stats.demolab.com?user=NandithaB19&theme=default&hide_border=false&v=1)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NandithaB19&theme=default&hide_border=false)
 
 
 
